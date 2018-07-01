@@ -1,0 +1,32 @@
+body {
+  background-image: url('img/light-bg1.png');
+  text-align:center;
+  font-family:"Average, Abril fatface";
+}
+
+h1 {
+  font-size:6em;
+}
+
+p{
+  margin:2em;
+}
+
+.number{
+width:250px;
+font-size:1em;
+}
+
+.start {
+  display:block;
+  background-color:yellow;
+  color:black;
+  font-size:1em;
+  width:3em;
+  height:3em;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:3em;
+  line-height:3em;
+  border:0em;
+}
